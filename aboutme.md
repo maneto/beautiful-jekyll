@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: just who I am
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Henrique, but you can call me Neto. I am a tech addicted, a support analyst at TRE-PR and a wannabe web developer whose interests are:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- *nix-like systems;
+- open source technologies;
+- conspiracy theories;
+- beer and
+- coding for fun.
 
-What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<!--I am a sagitarious who was born in the beginning of the end of the year 1980. I started dealing with computers when I was 11 yo. [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.-->
